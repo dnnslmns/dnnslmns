@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Dennis. Senior Software Designer  
+- 👀 I’m interested in creating commecial dedicated software applications.
+- 🌱 I’m currently learning react, angular
+- 💞️ I’m looking to collaborate on programming tools for persons with a handicap/disability.
+- 📫 I would say google me and you'll find the answer 
+
+<!---
+dnnslmns/dnnslmns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
